@@ -1,0 +1,10 @@
+
+
+.carousel-item .d-block .w-100{
+  width: 100%;
+  /*object-fit: cover; /*agg x majo*/
+  margin-right: auto;
+  margin-left: auto;
+  
+  
+}
